@@ -1,1 +1,2 @@
-Reflections
+When creating a branch, I put git checkout -b "name" and made my branch. It automatically puts me into that branch. I go ahead and make my changes and add my file to git. I work on each branch one at a time, keeping my work organized. When handling merge conflict I compared and see which code is better for the overall task, and ended up with this. I would also talk to my members, communicate and see if everyone is satisfied with the changes. The pull process allowed me to get feedback and guidence on what I should do moving forward. It allows proper review to occur.
+
